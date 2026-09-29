@@ -94,13 +94,19 @@ function invariant_ProtocolSolvencyMaintained() public view {
 
 <div align="center">
 
-| Credencial | Estado | Alcance Técnico |
-|:---|:---:|:---|
-| **Smart Contract Security & Auditing** | [✅ Verificar](https://profiles.cyfrin.io/u/danielbrosed/achievements/smart-contract-security-and-auditing) | Reentrancy profunda, manipulación de oráculos, fuzzing diferencial en Foundry, reportes High/Medium/Low |
-| **Solidity Smart Contract Development** | [✅ Verificar](https://profiles.cyfrin.io/u/danielbrosed/achievements/solidity-smart-contract-development) | Arquitectura EVM, gas optimization avanzado, ERC-20/721/1155/4626, herencia múltiple |
-| **Advanced Web3 Wallet Security** | [✅ Verificar](https://profiles.cyfrin.io/u/danielbrosed/achievements/advanced-web3-wallet-security) | ERC-4337 Account Abstraction, Safe multisig, permisos ERC-20 (`permit`), aislamiento de tesorería |
-| **Web3 Wallet Security Basics** | [✅ Verificar](https://profiles.cyfrin.io/u/danielbrosed/achievements/web3-wallet-security-basics) | BIP-39, derivación jerárquica, firmas secp256k1, mitigación de phishing |
-| **Blockchain Basics** | [✅ Verificar](https://profiles.cyfrin.io/u/danielbrosed/achievements/blockchain-basics) | SHA-256/Keccak-256, mempools, consenso descentralizado, ejecución determinista EVM |
+### Insignias Oficiales Cyfrin Updraft
+
+| <img src="https://res.cloudinary.com/droqoz7lg/image/upload/f_auto/q_auto/v1748556702/assets/blockchain-basics-badge.png" alt="Blockchain Basics" width="120" /><br/>**Blockchain Basics** | <img src="https://res.cloudinary.com/droqoz7lg/image/upload/f_auto/q_auto/v1748556702/assets/wallet-basics.png" alt="Web3 Wallet Security Basics" width="120" /><br/>**Web3 Wallet Security Basics** | <img src="https://res.cloudinary.com/droqoz7lg/image/upload/f_auto/q_auto/v1748556702/assets/advanced-wallets.png" alt="Advanced Web3 Wallet Security" width="120" /><br/>**Advanced Web3 Wallet Security** |
+|:---:|:---:|:---:|
+| [Verificar ↗](https://profiles.cyfrin.io/u/danielbrosed/achievements/blockchain-basics) | [Verificar ↗](https://profiles.cyfrin.io/u/danielbrosed/achievements/web3-wallet-security-basics) | [Verificar ↗](https://profiles.cyfrin.io/u/danielbrosed/achievements/advanced-web3-wallet-security) |
+
+| <img src="https://res.cloudinary.com/droqoz7lg/image/upload/f_auto/q_auto/v1748556702/assets/solidity-101.png" alt="Solidity Smart Contract Development" width="120" /><br/>**Solidity Smart Contract Development** | <img src="https://res.cloudinary.com/droqoz7lg/image/upload/f_auto/q_auto/v1748556702/assets/foundry-fundamentals.png" alt="Foundry Fundamentals" width="120" /><br/>**Foundry Fundamentals** | <img src="https://res.cloudinary.com/droqoz7lg/image/upload/f_auto/q_auto/v1748556702/assets/advanced-foundry-1749211036.png" alt="Advanced Foundry" width="120" /><br/>**Advanced Foundry** |
+|:---:|:---:|:---:|
+| [Verificar ↗](https://profiles.cyfrin.io/u/danielbrosed/achievements/solidity-smart-contract-development) | [Verificar ↗](https://profiles.cyfrin.io/u/danielbrosed) | [Verificar ↗](https://profiles.cyfrin.io/u/danielbrosed) |
+
+| <img src="https://res.cloudinary.com/droqoz7lg/image/upload/f_auto/q_auto/v1748556702/assets/course_badge/chainlink-badge.png" alt="Chainlink Integration" width="120" /><br/>**Chainlink Integration** | <img src="https://res.cloudinary.com/droqoz7lg/image/upload/f_auto/q_auto/v1748556702/assets/security-1749210968.png" alt="Smart Contract Security & Auditing" width="120" /><br/>**Smart Contract Security & Auditing** | <img src="https://res.cloudinary.com/droqoz7lg/image/upload/f_auto/q_auto/v1748556702/assets/assembly.png" alt="EVM Assembly" width="120" /><br/>**EVM Assembly** |
+|:---:|:---:|:---:|
+| [Verificar ↗](https://profiles.cyfrin.io/u/danielbrosed) | [Verificar ↗](https://profiles.cyfrin.io/u/danielbrosed/achievements/smart-contract-security-and-auditing) | [Verificar ↗](https://profiles.cyfrin.io/u/danielbrosed) |
 
 </div>
 
@@ -113,12 +119,12 @@ function invariant_ProtocolSolvencyMaintained() public view {
 <table border="0" width="100%" cellpadding="12" cellspacing="0">
   <tr>
     <td width="33%" align="center" valign="top" style="border: 1px solid #1F2228; border-radius: 8px; background: linear-gradient(180deg, #0A0A0A 0%, #1F2228 100%);">
-      <img src="./assets/brands/vaultbit-white.png" height="36" alt="VaultBit" /><br/><br/>
+      <img src="https://res.cloudinary.com/droqoz7lg/image/upload/f_auto/q_auto/v1748556702/assets/vaultbit-logo.png" height="36" alt="VaultBit" /><br/><br/>
       <strong style="color: #FC8323; font-size: 16px;">VAULTBIT</strong><br/>
       <sub style="color: #F5F4EF;">Infraestructura física de cold storage redundante + protocolo descentralizado de herencia para Bitcoin y activos de alto patrimonio.</sub>
     </td>
     <td width="33%" align="center" valign="top" style="border: 1px solid #1F2228; border-radius: 8px; background: linear-gradient(180deg, #0A0A0A 0%, #1F2228 100%);">
-      <img src="./assets/brands/inheritance-horizontal-negativo.png" height="32" alt="Inheritance Protocol" /><br/><br/>
+      <img src="https://res.cloudinary.com/droqoz7lg/image/upload/f_auto/q_auto/v1748556702/assets/inheritance-protocol-logo.png" height="32" alt="Inheritance Protocol" /><br/><br/>
       <strong style="color: #6E99FF; font-size: 16px;">INHERITANCE PROTOCOL</strong><br/>
       <sub style="color: #F5F4EF;">Arquitectura criptográfica sin intermediarios para transferencia no custodial mediante esquemas multi-clave y timelocks.</sub>
     </td>
@@ -129,17 +135,17 @@ function invariant_ProtocolSolvencyMaintained() public view {
   </tr>
   <tr>
     <td width="33%" align="center" valign="top" style="border: 1px solid #1F2228; border-radius: 8px; background: linear-gradient(180deg, #0A0A0A 0%, #1F2228 100%);">
-      <img src="./assets/brands/vaultgrid-white.png" height="32" alt="VaultGrid Labs" /><br/><br/>
+      <img src="https://res.cloudinary.com/droqoz7lg/image/upload/f_auto/q_auto/v1748556702/assets/vaultgrid-logo.png" height="32" alt="VaultGrid Labs" /><br/><br/>
       <strong style="color: #AA6746; font-size: 16px;">VAULTGRID LABS</strong><br/>
       <sub style="color: #F5F4EF;">Sistemas BESS de almacenamiento de energía con baterías para naves industriales y renovables: infraestructura física para computación e IA.</sub>
     </td>
     <td width="33%" align="center" valign="top" style="border: 1px solid #1F2228; border-radius: 8px; background: linear-gradient(180deg, #0A0A0A 0%, #1F2228 100%);">
-      <img src="./assets/brands/balority.svg" height="30" alt="Balority" /><br/><br/>
+      <img src="https://res.cloudinary.com/droqoz7lg/image/upload/f_auto/q_auto/v1748556702/assets/balority-logo.svg" height="30" alt="Balority" /><br/><br/>
       <strong style="color: #FC8323; font-size: 16px;">BALORITY APP</strong><br/>
       <sub style="color: #F5F4EF;">Auditoría OWASP: 29 hallazgos (5 críticos/graves) + motor de conexiones con IA para matching de talento técnico.</sub>
     </td>
     <td width="33%" align="center" valign="top" style="border: 1px solid #1F2228; border-radius: 8px; background: linear-gradient(180deg, #0A0A0A 0%, #1F2228 100%);">
-      <img src="./assets/brands/cesea-white.png" height="30" alt="Cesea" /><br/><br/>
+      <img src="https://res.cloudinary.com/droqoz7lg/image/upload/f_auto/q_auto/v1748556702/assets/cesea-logo.png" height="30" alt="Cesea" /><br/><br/>
       <strong style="color: #3ECF8E; font-size: 16px;">CESEA AGENC.IA</strong><br/>
       <sub style="color: #F5F4EF;">Automatización de prospección comercial con agentes de IA: reducción del tiempo de cualificación de 3h 04min → 5 min.</sub>
     </td>
