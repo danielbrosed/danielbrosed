@@ -217,3 +217,4 @@ No utilizo la IA como un sustituto del criterio humano, sino como un **motor ace
 <img src="https://komarev.com/ghpvc/?username=danielbrosed&style=flat-square&color=FC8323&label=AUDITOR+PROFILE+VIEWS" alt="Profile Views" />
 
 </div>
+
