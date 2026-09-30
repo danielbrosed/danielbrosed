@@ -153,10 +153,6 @@ Vectores que cubre el track de seguridad de smart contracts que he completado en
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=danielbrosed&bg_color=0d262b&color=e4ebe7&line=2f7a5a&point=8fd1ad&area_color=2f7a5a&area=true&border_color=23302b&custom_title=Daniel%20Brosed%20%C2%B7%20Actividad" width="95%" alt="Gráfico de actividad" />
-</p>
-
-<p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielbrosed/danielbrosed/output/github-snake-dark.svg">
     <img src="https://raw.githubusercontent.com/danielbrosed/danielbrosed/output/github-snake.svg" alt="Serpiente de contribuciones" width="90%">
