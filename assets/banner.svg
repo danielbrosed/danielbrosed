@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-label="Daniel Brosed · Sistemas de IA para las empresas y la infraestructura que viene">
+  <defs>
+    <radialGradient id="halo" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#2f7a5a" stop-opacity="0.32"/>
+      <stop offset="1" stop-color="#2f7a5a" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0d262b"/>
+      <stop offset="1" stop-color="#12312f"/>
+    </linearGradient>
+  </defs>
+  <rect x="0" y="0" width="1200" height="340" rx="12" fill="url(#bg)"/>
+  <circle cx="1030" cy="70" r="300" fill="url(#halo)"/>
+  <circle cx="140" cy="300" r="260" fill="url(#halo)"/>
+  <text x="600" y="76" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="800" letter-spacing="3.4" fill="#8fd1ad">INTELIGENCIA ARTIFICIAL &#183; ENERG&#205;A &#183; INFRAESTRUCTURAS</text>
+  <text x="600" y="152" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="52" letter-spacing="0.5" fill="#ffffff">SISTEMAS DE IA PARA LAS EMPRESAS</text>
+  <text x="600" y="214" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="52" letter-spacing="0.5" fill="#ffffff">Y LA INFRAESTRUCTURA QUE VIENE</text>
+  <rect x="570" y="244" width="60" height="3" rx="1.5" fill="#2f7a5a"/>
+  <text x="600" y="286" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="600" fill="#e4ebe7">Daniel Brosed &#183; Arquitecto de sistemas de IA &#183; Huesca, Espa&#241;a</text>
+  <text x="600" y="314" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="13" letter-spacing="1.2" fill="#8fa79e">danielbrosed.com</text>
+</svg>
