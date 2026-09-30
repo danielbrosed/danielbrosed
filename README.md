@@ -96,13 +96,13 @@ Vectores que cubre el track de seguridad de smart contracts que he completado en
 
 **Anthropic Academy** — formación continua en sistemas de IA: diez certificaciones de la formación oficial de Anthropic, completadas en julio de 2026.
 
-| | |
-| :--- | :--- |
-| Claude Code in Action | Introduction to Subagents |
-| Introduction to Model Context Protocol | AI Fluency for Builders (con CodePath) |
-| Model Context Protocol: Advanced Topics | AI Fluency for Small Businesses (con PayPal) |
-| Claude with the Anthropic API | Claude with Amazon Bedrock |
-| Introduction to Agent Skills | Claude with Google Vertex AI |
+<table width="100%">
+  <tr><td>Claude Code in Action</td><td>Introduction to Subagents</td></tr>
+  <tr><td>Introduction to Model Context Protocol</td><td>AI Fluency for Builders (con CodePath)</td></tr>
+  <tr><td>Model Context Protocol: Advanced Topics</td><td>AI Fluency for Small Businesses (con PayPal)</td></tr>
+  <tr><td>Claude with the Anthropic API</td><td>Claude with Amazon Bedrock</td></tr>
+  <tr><td>Introduction to Agent Skills</td><td>Claude with Google Vertex AI</td></tr>
+</table>
 
 **Cyfrin Updraft** — el itinerario completo de desarrollo y seguridad de smart contracts, nueve insignias:
 
